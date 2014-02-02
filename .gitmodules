@@ -1,0 +1,9 @@
+[submodule "maincontrolcenter"]
+	path = maincontrolcenter
+	url = https://github.com/bjadel/weatherstation-maincontrolcenter
+[submodule "backup"]
+	path = backup
+	url = https://github.com/bjadel/weatherstation-backup
+[submodule "app"]
+	path = app
+	url = https://github.com/bjadel/weatherstation-app
