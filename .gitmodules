@@ -7,3 +7,9 @@
 [submodule "app"]
 	path = app
 	url = https://github.com/bjadel/weatherstation-app
+[submodule "firmware/platine"]
+	path = firmware/platine
+	url = https://github.com/gabm/Wetter
+[submodule "firmware/lan"]
+	path = firmware/lan
+	url = https://github.com/gabm/Wetter_uip
